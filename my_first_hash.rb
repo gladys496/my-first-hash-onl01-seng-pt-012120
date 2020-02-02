@@ -20,18 +20,7 @@ def adding
   shipping_manifest["fish vases"] = 1
   shipping_manifest
 end
-            
-  # add 2 muskets to the shipping_manifest hash below
-
-
-
-  # add 4 gun powder to the shipping_manifest hash below
-
-
-
-  # return the shipping_manifest hash below
-
-end
+  
 
 # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 
@@ -40,3 +29,5 @@ end
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
 
 # Look up the value of the "oil paintings" key in the shipping_manifest hash below
+
+
