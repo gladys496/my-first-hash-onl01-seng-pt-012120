@@ -1,4 +1,4 @@
-def my_hash
+def my_hash = { "apple" => 5, "Watermelon" => 10, "Orange" => 12}
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 
   
