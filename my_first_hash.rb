@@ -20,6 +20,7 @@ def adding
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
+                 
   # add 2 muskets to the shipping_manifest hash below
 
 
@@ -38,4 +39,4 @@ end
   # fill that hash with key/value pairs that describe the following information: 
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
 
-
+# Look up the value of the "oil paintings" key in the shipping_manifest hash below
